@@ -4,5 +4,5 @@ BOT_TOKEN = ""
 STRING_SESSION = ""
 OWNER_ID = ""
 ADMINS = [1693701096]
-BASE_URL = ""
-HOME_PAGE_REDIRECT = "https://techzbots.t.me"
+BASE_URL = "https://animetsi.onrender.com"
+HOME_PAGE_REDIRECT = "https://tsitkbydmt.t.me"
